@@ -161,6 +161,11 @@ h1, h2, h3{
     cover no-repeat fixed;
     color: var(--light-color);
 }
+#skills{
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.3)), url(images/skills.jpg) center/
+    cover no-repeat fixed;
+    color: var(--light-color);
+}
 #work .title h2, #work h3{
     color: var(--light-color);
 }
