@@ -1,1 +1,3 @@
-Browse live on: https://photography001.netlify.app/
+HTML About Page.
+
+A bit of CSS and JavaScript
